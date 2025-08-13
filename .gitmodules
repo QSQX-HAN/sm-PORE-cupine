@@ -1,0 +1,3 @@
+[submodule "lib/libsigpore"]
+	path = analysis/lib/libsigpore
+	url = https://github.com/QSQX-HAN/libsigpore.git
